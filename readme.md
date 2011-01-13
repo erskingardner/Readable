@@ -1,1 +1,1 @@
-A simple node.js app that runs on port 8000 and parses urls for readability. 
+A simple node.js app that runs on port 8000 and parses urls for readability. Just pass it a url in a param - like http://localhost:8000/?url=http://therealdeal.com/newyork/articles/35528
