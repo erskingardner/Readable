@@ -7,3 +7,12 @@ Just pass it a url in a param - like:
 This will return the readability parsed page as text in the response body. Use it however you'd like from there.
 
 The actual readability engine is a clone of the very handy [arrix/node-readability](https://github.com/arrix/node-readability/tree/) with lots of small changes and tweaks for our individual environment.
+
+## Dependencies
+
+Most easily installed via NPM
+
+Current dependencies:
+
+* jsdom
+* events
